@@ -1,12 +1,13 @@
 streamlit
-pymupdf
 langchain
 langchain-community
-faiss-cpu
 nltk
 openai
-groq
+langchain_groq
 tiktoken
 python-dotenv
 PyYAML
 requests
+faiss-cpu
+fastembed
+PyMuPDF
