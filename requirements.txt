@@ -11,6 +11,5 @@ PyYAML
 requests
 faiss-cpu
 fastembed
--U langchain-community
 PyMuPDF
 fitz
