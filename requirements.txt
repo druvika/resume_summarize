@@ -2,6 +2,7 @@ streamlit
 langchain
 langchain-community
 nltk
+fitz
 openai
 langchain_groq
 tiktoken
