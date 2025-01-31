@@ -1,0 +1,12 @@
+streamlit
+pymupdf
+langchain
+langchain-community
+faiss-cpu
+nltk
+openai
+groq
+tiktoken
+python-dotenv
+PyYAML
+requests
