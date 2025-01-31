@@ -11,4 +11,5 @@ requests
 faiss-cpu
 fastembed
 PyMuPDF
+--upgrade PyMuPDF
 fitz
