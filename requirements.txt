@@ -3,7 +3,6 @@ langchain
 langchain-community
 nltk
 openai
-fitz
 langchain_groq
 tiktoken
 python-dotenv
